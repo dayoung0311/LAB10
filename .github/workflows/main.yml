@@ -20,5 +20,5 @@ jobs:
           python-version: '3.x'
 
       - name: Run Python script
-        run: python3 script.py 12  # script.py 파일 실행
+        run: python3 divisors.py 12  # script.py 파일 실행
 
